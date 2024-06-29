@@ -1,0 +1,13 @@
+<project Sdk="Microsoft.Net.Sdk.Web">
+
+    <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>Projeto_Web_Lh_pets_versão_1</ImplicitUsings>
+</PropertyGroup>
+
+<ItemGroup>
+    <packageReference Include ="System.Data.SqlClient">version="4.8.5" />
+</ItemGroup>
+
+</Project>
